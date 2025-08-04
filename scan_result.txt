@@ -1,0 +1,46 @@
+# Nmap 7.95 scan initiated Mon Aug  4 20:29:11 2025 as: /usr/lib/nmap/nmap -sS -oN scan_result.txt 192.168.1.41/24
+Nmap scan report for 192.168.1.1
+Host is up (0.011s latency).
+Not shown: 993 closed tcp ports (reset)
+PORT    STATE    SERVICE
+21/tcp  open     ftp
+23/tcp  filtered telnet
+53/tcp  open     domain
+80/tcp  open     http
+139/tcp filtered netbios-ssn
+443/tcp open     https
+445/tcp filtered microsoft-ds
+MAC Address: 54:47:E8:9B:78:DD (Syrotech Networks.)
+
+Nmap scan report for 192.168.1.33
+Host is up (0.19s latency).
+All 1000 scanned ports on 192.168.1.33 are in ignored states.
+Not shown: 1000 closed tcp ports (reset)
+MAC Address: E6:93:96:DD:5A:DE (Unknown)
+
+Nmap scan report for 192.168.1.39
+Host is up (0.059s latency).
+All 1000 scanned ports on 192.168.1.39 are in ignored states.
+Not shown: 1000 filtered tcp ports (no-response)
+MAC Address: F0:D4:15:76:50:39 (Intel Corporate)
+
+Nmap scan report for 192.168.1.41
+Host is up (0.00024s latency).
+All 1000 scanned ports on 192.168.1.41 are in ignored states.
+Not shown: 1000 filtered tcp ports (no-response)
+MAC Address: B8:1E:A4:F8:68:41 (Liteon Technology)
+
+Nmap scan report for 192.168.1.240
+Host is up (0.011s latency).
+Not shown: 998 closed tcp ports (reset)
+PORT    STATE SERVICE
+80/tcp  open  http
+554/tcp open  rtsp
+MAC Address: 14:07:08:39:A0:84 (CP Plus Gmbh & KG)
+
+Nmap scan report for 192.168.1.42
+Host is up (0.0000040s latency).
+All 1000 scanned ports on 192.168.1.42 are in ignored states.
+Not shown: 1000 closed tcp ports (reset)
+
+# Nmap done at Mon Aug  4 20:30:00 2025 -- 256 IP addresses (6 hosts up) scanned in 49.23 seconds
