@@ -53,10 +53,10 @@
 
 
 
-nmap-local-network-scan/
+'''nmap-local-network-scan/
 ├── scan_result.txt            # Raw Nmap output in text format 
 ├── screenshots/               # Folder containing screenshots 
 │   ├── nmap-scan.png
 │   └── nmap-scann.png
 ├── README.md                  # Explanation of what you did
-└── wireshark-capture.pcapng   # Saved Wireshark capture file
+└── wireshark-capture.pcapng   # Saved Wireshark capture file'''
