@@ -53,4 +53,12 @@
 
 
 
-<pre> ``` nmap-local-network-scan/ ├── scan_result.txt # Raw Nmap output in text format ├── screenshots/ # Folder containing screenshots │ ├── nmap-scan.png │ └── nmap-scan.png ├── README.md # Explanation └── wireshark-capture.pcapng # Saved Wireshark capture file ``` </pre>
+<pre>
+ ``` nmap-local-network-scan/ 
+ ├── scan_result.txt # Raw Nmap output in text format 
+ ├── screenshots/ # Folder containing screenshots 
+    │ ├── nmap-scan.png 
+    │ └── nmap-scan.png 
+├── README.md # Explanation 
+└── wireshark-capture.pcapng # Saved Wireshark capture file ```
+  </pre>
