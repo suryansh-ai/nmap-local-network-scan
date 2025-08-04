@@ -50,15 +50,3 @@
    Wireshark captures and analyzes network packets in real time. While Nmap reveals open ports, Wireshark helps visualize how the scan works, monitor responses, detect suspicious activity, and better understand network behavior during a scan.
 ...
 
-
-
-
-<pre>
- ``` nmap-local-network-scan/ 
- ├── scan_result.txt # Raw Nmap output in text format 
- ├── screenshots/ # Folder containing screenshots 
-    │ ├── nmap-scan.png 
-    │ └── nmap-scan.png 
-├── README.md # Explanation 
-└── wireshark-capture.pcapng # Saved Wireshark capture file ```
-  </pre>
