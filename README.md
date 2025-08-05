@@ -50,3 +50,25 @@
    Wireshark captures and analyzes network packets in real time. While Nmap reveals open ports, Wireshark helps visualize how the scan works, monitor responses, detect suspicious activity, and better understand network behavior during a scan.
 ...
 
+## 📂 Repository Structure
+
+```
+phishing-email-analysis/
+│
+├── README.md
+├── scan_result.txt
+├── wireshark_result.pcapng
+├── screenshots/
+│   └── nmap-sann.png
+│   └── nmap-sannn.png
+```
+
+---
+
+## ✍️ Created By
+
+**Name:** Suryansh Pandey
+
+**Internship:** Cyber Security Internship – Task 1 
+
+**Date:** [04/08/2025]
