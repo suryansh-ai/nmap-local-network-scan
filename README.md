@@ -20,7 +20,7 @@
 - `wireshark_result.pcapng`
 - Screenshots
 
-## Interview Questions (with answers)
+## Interview Questions
 1. **What is an open port?**  
    An open port is a network port that is accepting incoming connections. It indicates that a service or application is actively listening on that port, making it accessible to other devices or users.
 
